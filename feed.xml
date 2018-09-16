@@ -5,7 +5,7 @@
     <link>http://www.atownmovies.com</link>
     <description>A film podcast from the insanely unique perspective of two midwesterners discussing movies new and old.  Website: atownmovies.com Twitter: @atownmoviesfm Facebook: https://www.facebook.com/atownfm Tags: atownfm atownmovies</description>
     <copyright/>
-    <lastBuildDate>Tue, 21 Aug 2018 01:44:51 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Sep 2018 18:06:21 +0000</lastBuildDate>
     <language>en-US</language>
     <itunes:author>Charlie Chapman, Dan Litz</itunes:author>
     <itunes:block>No</itunes:block>
@@ -17,6 +17,34 @@
       <itunes:name>Charlie Chapman</itunes:name>
     </itunes:owner>
     <itunes:category text="TV &amp; Film"/>
+    <item>
+      <title>Jaws: Fallen Kingdom (The Meg)</title>
+      <pubDate>Sun, 16 Sep 2018 17:57:54 +0000</pubDate>
+      <guid isPermaLink="false">09e7cede-52f4-4da8-9379-20bd68a1c9fc</guid>
+      <link/>
+      <description><![CDATA[<p>This week our hosts review the film of our age, The Meg. A Melvillian tale about a man overcoming his demons to live again, The Meg will surely delight the poets in us all for ages to come. So buckle up in your Naboo ships and prepare to enter the trench!</p>
+<p></p>
+<p><strong>Show Notes</strong></p>
+<p><a href="https://www.imdb.com/title/tt4779682/" target="_self">The Meg</a></p>
+<p><a href="https://www.imdb.com/title/tt2239822/" target="_self">Valerian and the City of a Thousand Planets</a></p>
+<p><a href="https://www.patreon.com/atownfm" target="_self">Patreon</a></p>
+<p><a href="http://atownmovies.com/" target="_self">atownmovies.com</a></p>
+]]></description>
+      <content:encoded><![CDATA[<p>This week our hosts review the film of our age, The Meg. A Melvillian tale about a man overcoming his demons to live again, The Meg will surely delight the poets in us all for ages to come. So buckle up in your Naboo ships and prepare to enter the trench!</p>
+<p></p>
+<p><strong>Show Notes</strong></p>
+<p><a href="https://www.imdb.com/title/tt4779682/" target="_self">The Meg</a></p>
+<p><a href="https://www.imdb.com/title/tt2239822/" target="_self">Valerian and the City of a Thousand Planets</a></p>
+<p><a href="https://www.patreon.com/atownfm" target="_self">Patreon</a></p>
+<p><a href="http://atownmovies.com/" target="_self">atownmovies.com</a></p>
+]]></content:encoded>
+      <itunes:duration>00:30:26</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>This week our hosts review the film of our age, The Meg. A Melvillian tale about a man overcoming his demons to live again, The Meg will surely delight the poets in us all for ages to come. So buckle up in your Naboo ships and prepare to enter the trench!</itunes:subtitle>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://s3.us-east-2.amazonaws.com/podcast.atownmovies.com/images/at-movies_007_the-meg_02.jpg"/>
+      <enclosure url="http://dts.podtrac.com/redirect.mp3/media.blubrry.com/atownmovies/s3.us-east-2.amazonaws.com/podcast.atownmovies.com/audio/at-movies_007_the-meg.mp3" length="15088203" type="audio/mpeg"/>
+    </item>
     <item>
       <title>Mission: Impossible - Fallout</title>
       <pubDate>Mon, 20 Aug 2018 19:43:00 -0500</pubDate>
