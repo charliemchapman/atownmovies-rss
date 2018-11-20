@@ -5,7 +5,7 @@
     <link>http://www.atownmovies.com</link>
     <description>A film podcast from the insanely unique perspective of two midwesterners discussing movies new and old.  Website: atownmovies.com Twitter: @atownmoviesfm Facebook: https://www.facebook.com/atownfm Tags: atownfm atownmovies</description>
     <copyright/>
-    <lastBuildDate>Tue, 16 Oct 2018 00:31:57 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Nov 2018 02:34:23 +0000</lastBuildDate>
     <language>en-US</language>
     <itunes:author>Charlie Chapman, Dan Litz</itunes:author>
     <itunes:block>No</itunes:block>
@@ -17,6 +17,44 @@
       <itunes:name>Charlie Chapman</itunes:name>
     </itunes:owner>
     <itunes:category text="TV &amp; Film"/>
+    <item>
+      <title>Oceans 8</title>
+      <pubDate>Tue, 20 Nov 2018 01:32:37 +0000</pubDate>
+      <guid isPermaLink="false">eb54bcd7-273c-4518-8326-3570b24154c2</guid>
+      <link/>
+      <description><![CDATA[<p>This week we put together a brand new highly skilled team to talk the latest film in the classic heist film franchise: Oceans 8!</p>
+<br/>
+<h3>Show Notes</h3>
+<ul>
+  <li><a href="https://www.imdb.com/title/tt5164214/">Oceans 8</a></li>
+  <li><a href="https://www.teenvogue.com/story/rihanna-pronunciation">How to Pronounce Rihanna</a></li>
+</ul>
+</br>
+<ul>
+  <li><a href="https://www.patreon.com/atownfm" rel="payment">Patreon</a></li>
+  <li><a href="https://www.reddit.com/r/atownfm/">Reddit</a></li>
+  <li><a href="https://atownmovies.com">atownmovies.com</a></li>
+</ul>]]></description>
+      <content:encoded><![CDATA[<p>This week we put together a brand new highly skilled team to talk the latest film in the classic heist film franchise: Oceans 8!</p>
+<br/>
+<h3>Show Notes</h3>
+<ul>
+  <li><a href="https://www.imdb.com/title/tt5164214/">Oceans 8</a></li>
+  <li><a href="https://www.teenvogue.com/story/rihanna-pronunciation">How to Pronounce Rihanna</a></li>
+</ul>
+</br>
+<ul>
+  <li><a href="https://www.patreon.com/atownfm" rel="payment">Patreon</a></li>
+  <li><a href="https://www.reddit.com/r/atownfm/">Reddit</a></li>
+  <li><a href="https://atownmovies.com">atownmovies.com</a></li>
+</ul>]]></content:encoded>
+      <itunes:duration>01:09:33</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>This week we put together a brand new, highly skilled team to talk the latest film in the classic heist film franchise: Oceans 8!</itunes:subtitle>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://s3.us-east-2.amazonaws.com/podcast.atownmovies.com/images/at-movies_010_oceans8.jpg"/>
+      <enclosure url="http://dts.podtrac.com/redirect.mp3/media.blubrry.com/atownmovies/s3.us-east-2.amazonaws.com/podcast.atownmovies.com/audio/at-movies_010_oceans8.mp3" length="33560358" type="audio/mpeg"/>
+    </item>
     <item>
       <title>Whiplash</title>
       <pubDate>Mon, 15 Oct 2018 23:38:10 +0000</pubDate>
